@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>  SHOPPING CATEGORIES</title>
+</head>
+<body>
+<h1>  SHOPPING CATEGORIES:<h1>
+<h2>Fruits</h2>
+   <li>Grapes</li>
+ <li> Bananas</li>
+ <li>Water melons</li>
+ <h2> Vegetables</h2>
+ <li> Brinjal</li>
+ <li> Bitter guard</li>
+ <li> Ladies finger</li>
+ <h2> Electronics</h2>
+ <li> Mobiles</li>
+ <li> laptop</li>
+ <li> Ear phones</li>
+ </body>
+ </html> 
+  
